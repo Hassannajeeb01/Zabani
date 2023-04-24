@@ -12,37 +12,71 @@ We have also tried to keep the UI simple, with large buttons and minimal text to
 OVERALL PROTOTYPE WALKTHROUGH
 
 (START POINT) - SPLASH SCREEN
+
 ●	The user taps the app icon to launch the app.
+
 ●	The first page they are shown is the splash-screen, which acts as the loading screen for the app.
+
 ●	There is no interactivity on this page, it simply serves as an intermediary.
+
 MAIN MENU
+
 ●	The user is given four buttons on their screen that they can press:
+
 ○	PLAY -takes the user to the LEVEL SELECT screen.
+
 ○	HELP - see tutorials for the various game modes from the HOW TO PLAY screen.
+
 ○	OPTIONS - various settings that the user could customise.
+
 ○	EXIT - leave the app.
+
 LEVEL SELECT
+
 ●	The user is shown a screen with a ‘road-map’ of the various levels.
+
 ●	They can select one of the levels to play that stage.
+
 MCQs
+
 ●	In this mode, the user is shown a question with the possible options at the bottom that they can choose from to answer and score points.
+
 BLANKS
-●	In this mode, the user is shown a sentence with one or more blank spaces. They must choose from the words provided to fill in the blanks and complete the sentence to score points.
+
+●	In this mode, the user is shown a sentence with one or more blank spaces. They must choose from the words provided to fill in the blanks and complete the sentence to 
+score points.
+
 SCORE RESULTS
+
 ●	After the user finishes a level’s questions, they are taken to this screen and shown their score.
+
 HOW TO PLAY
+
 ●	Shows a list of buttons, one that goes to a TUTORIAL SCREEN for each of the gamemodes planned. 
+
 ●	In this prototype, only the screens for the MCQs and BLANKS have content implemented. 
+
 ●	Buttons functionality is present for the rest but not content.
+
 TUTORIAL SCREEN(S)
-●	Consists of a swipeable window screen when the user can go through the different pages of a tutorial and learn how to play the specific game that TUTORIAL SCREEN is for.
+
+●	Consists of a swipeable window screen when the user can go through the different pages of a tutorial and learn how to play the specific game that TUTORIAL SCREEN is 
+for.
+
 OPTIONS
+
 ●	A list of settings the user can customise:
+
 ○	Change Name 
+
 ○	Music ON/OFF toggle 
+
 ○	MENU TEXT 
+
 ○	RESET Scores 
+
 ●	The functionality of this menus settings has not been implemented.
+
 
 CHANGELOG/NOTES
 
